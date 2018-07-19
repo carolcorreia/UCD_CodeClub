@@ -1,2 +1,2 @@
 # UCD_CodeClub
-CodeClub before, we are a peer-led support group for computational biologists. Last year, we hosted a few interactive and friendly meetings to tackle and troubleshoot coding problems for big data analysis.  During each meeting we discuss the book content and practice together the examples given. We would be glad to have people with a mix of programming experience levels, from the very beginners to professional coders.
+The UCD CodeClub is a peer-led support group for computational biologists. We host interactive and friendly meetings to tackle and troubleshoot coding problems for big data analysis. Our current format is to discuss the book R for Data Science (http://r4ds.had.co.nz) and practice together the examples given.
