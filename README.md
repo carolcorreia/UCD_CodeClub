@@ -1,0 +1,2 @@
+# UCD_CodeClub
+CodeClub before, we are a peer-led support group for computational biologists. Last year, we hosted a few interactive and friendly meetings to tackle and troubleshoot coding problems for big data analysis.  During each meeting we discuss the book content and practice together the examples given. We would be glad to have people with a mix of programming experience levels, from the very beginners to professional coders.
