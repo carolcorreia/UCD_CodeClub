@@ -7,5 +7,5 @@ Check out our Wiki on Reproducible Research (go to the Wiki tab> then Reproducib
 Going to add resources and advice to this page relevant to managing and carrying out your analyses so they can be shared and replicated effectively.
 https://github.com/carolcorreia/UCD_CodeClub/wiki/Reproducible-Research
 
-We have now started a secodn thread on the Wiki relevant to Data Visualisation 
+We have now started a second thread on the Wiki relevant to Data Visualisation 
 https://github.com/carolcorreia/UCD_CodeClub/wiki/Data-Visualisation
